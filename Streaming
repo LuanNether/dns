@@ -1,21 +1,6 @@
 # Lista de Bloqueio de Serviços de Streaming
 # Última atualização: 06-09-2024
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
 # Netflix
 0.0.0.0 netflix.com
 0.0.0.0 netflix.net
@@ -24,42 +9,42 @@ ff02::3 ip6-allhosts
 0.0.0.0 nflxvideo.net
 
 # Amazon Prime Video
-primevideo.com
-primevideo.com.br
-amazonvideo.com
-atv-ext.amazon.com
-atv-ps.amazon.com
+0.0.0.0 primevideo.com
+0.0.0.0 primevideo.com.br
+0.0.0.0 amazonvideo.com
+0.0.0.0 atv-ext.amazon.com
+0.0.0.0 atv-ps.amazon.com
 
 # Disney+
-disneyplus.com
-dssott.com
-bamgrid.com
-disney.com
+0.0.0.0 disneyplus.com
+0.0.0.0 dssott.com
+0.0.0.0 bamgrid.com
+0.0.0.0 disney.com
 
 # Spotify
-spotify.com
-spotifycdn.com
-scdn.co
+0.0.0.0 spotify.com
+0.0.0.0 spotifycdn.com
+0.0.0.0 scdn.co
 
 # YouTube
-youtube.com
-youtube-nocookie.com
-googlevideo.com
-ytimg.com
-ytstatic.l.google.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytstatic.l.google.com
 
 # HBO Max
-hbomax.com
-hbonow.com
-hbogo.com
-hbo.com
-hbomaxcdn.com
+0.0.0.0 hbomax.com
+0.0.0.0 hbonow.com
+0.0.0.0 hbogo.com
+0.0.0.0 hbo.com
+0.0.0.0 hbomaxcdn.com
 
 # Hulu
-hulu.com
-hulustream.com
+0.0.0.0 hulu.com
+0.0.0.0 hulustream.com
 
 # Apple TV+
-apple.com
-mzstatic.com
-itunes.apple.com
+0.0.0.0 apple.com
+0.0.0.0 mzstatic.com
+0.0.0.0 itunes.apple.com
