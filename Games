@@ -2,78 +2,78 @@
 # Última atualização: 06-09-2024
 
 # Steam
-steampowered.com
-steamcommunity.com
-steamgames.com
-steamusercontent.com
-steamcontent.com
-steampoweredcdn-a.akamaihd.net
-steambroadcast.com
+0.0.0.0 steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 steamgames.com
+0.0.0.0 steamusercontent.com
+0.0.0.0 steamcontent.com
+0.0.0.0 steampoweredcdn-a.akamaihd.net
+0.0.0.0 steambroadcast.com
 
 # EA Games (Origin)
-ea.com
-origin.com
-eaplay.com
-eastore.com
-akamaihd.net
+0.0.0.0 ea.com
+0.0.0.0 origin.com
+0.0.0.0 eaplay.com
+0.0.0.0 eastore.com
+0.0.0.0 akamaihd.net
 
 # Epic Games
-epicgames.com
-fortnite.com
-unrealengine.com
-launcher-epic-games.com
-fortnite.gg
+0.0.0.0 epicgames.com
+0.0.0.0 fortnite.com
+0.0.0.0 unrealengine.com
+0.0.0.0 launcher-epic-games.com
+0.0.0.0 fortnite.gg
 
 # Blizzard (Battle.net)
-blizzard.com
-battle.net
-battlenet.com
-blzmedia.com
-bnetshop.com
+0.0.0.0 blizzard.com
+0.0.0.0 battle.net
+0.0.0.0 battlenet.com
+0.0.0.0 blzmedia.com
+0.0.0.0 bnetshop.com
 
 # Riot Games (League of Legends, Valorant)
-riotgames.com
-playvalorant.com
-leagueoflegends.com
-lolesports.com
-riotcdn.com
+0.0.0.0 riotgames.com
+0.0.0.0 playvalorant.com
+0.0.0.0 leagueoflegends.com
+0.0.0.0 lolesports.com
+0.0.0.0 riotcdn.com
 
 # Ubisoft (Uplay)
-ubisoft.com
-uplay.com
-ubisoftconnect.com
-ubisoftgroup.com
-ubisoftcdn.com
+0.0.0.0 ubisoft.com
+0.0.0.0 uplay.com
+0.0.0.0 ubisoftconnect.com
+0.0.0.0 ubisoftgroup.com
+0.0.0.0 ubisoftcdn.com
 
 # PlayStation Network
-playstation.com
-playstation.net
-sonyentertainmentnetwork.com
+0.0.0.0 playstation.com
+0.0.0.0 playstation.net
+0.0.0.0 sonyentertainmentnetwork.com
 
 # Xbox Live
-xbox.com
-xboxlive.com
-xboxlive.uservoice.com
-xboxliveapi.com
+0.0.0.0 xbox.com
+0.0.0.0 xboxlive.com
+0.0.0.0 xboxlive.uservoice.com
+0.0.0.0 xboxliveapi.com
 
 # Rockstar Games (GTA V, Red Dead Online)
-rockstargames.com
-socialclub.rockstargames.com
+0.0.0.0 rockstargames.com
+0.0.0.0 socialclub.rockstargames.com
 
 # GOG.com (Good Old Games)
-gog.com
-gogstatic.com
+0.0.0.0 gog.com
+0.0.0.0 gogstatic.com
 
 # Bethesda
-bethesda.net
-bethesda.com
+0.0.0.0 bethesda.net
+0.0.0.0 bethesda.com
 
 # Nintendo
-nintendo.com
-nintendo.net
-nintendo-europe.com
+0.0.0.0 nintendo.com
+0.0.0.0 nintendo.net
+0.0.0.0 nintendo-europe.com
 
 # Twitch
-twitch.tv
-ttvnw.net
-twitchcdn.net
+0.0.0.0 twitch.tv
+0.0.0.0 ttvnw.net
+0.0.0.0 twitchcdn.net
