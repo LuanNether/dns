@@ -1,121 +1,102 @@
-# Lista de Bloqueio de Redes Sociais e Aplicativos de Relacionamento
-# Última atualização: 06-09-2024
+# Lista de Bloqueio de Redes Sociais e Relacionamento
+# Atualizado: 12-04-2026
 
-# Redes Sociais
-
-# Facebook
+# =====================
+# META (Facebook / Instagram / Messenger / WhatsApp)
+# =====================
 0.0.0.0 facebook.com
 0.0.0.0 fbcdn.net
 0.0.0.0 fbsbx.com
 0.0.0.0 fb.com
 0.0.0.0 messenger.com
 
-# Instagram
 0.0.0.0 instagram.com
 0.0.0.0 cdninstagram.com
 
-# Twitter
+0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
+
+# =====================
+# TWITTER / X
+# =====================
 0.0.0.0 twitter.com
+0.0.0.0 x.com
 0.0.0.0 t.co
 0.0.0.0 twimg.com
 
-# TikTok
+# =====================
+# TIKTOK
+# =====================
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokv.com
-0.0.0.0 muscdn.com
+0.0.0.0 byteoversea.com
 
-# Snapchat
+# =====================
+# SNAPCHAT
+# =====================
 0.0.0.0 snapchat.com
 0.0.0.0 sc-static.net
 0.0.0.0 snapads.com
 0.0.0.0 snapkit.com
-0.0.0.0 snapusercontent.com
 
-# LinkedIn
+# =====================
+# LINKEDIN
+# =====================
 0.0.0.0 linkedin.com
 0.0.0.0 lnkd.in
 0.0.0.0 licdn.com
 
-# Reddit
+# =====================
+# REDDIT
+# =====================
 0.0.0.0 reddit.com
 0.0.0.0 redditmedia.com
 0.0.0.0 redd.it
 
-# Pinterest
+# =====================
+# PINTEREST
+# =====================
 0.0.0.0 pinterest.com
 0.0.0.0 pinimg.com
 
-# Tumblr
-0.0.0.0 tumblr.com
-0.0.0.0 tumblr.co
-
-# WhatsApp
-0.0.0.0 whatsapp.com
-0.0.0.0 whatsapp.net
-0.0.0.0 web.whatsapp.com
-
-# WeChat
-0.0.0.0 wechat.com
-0.0.0.0 wechatapp.com
-
-# VK (VKontakte)
-0.0.0.0 vk.com
-0.0.0.0 vk.me
-0.0.0.0 userapi.com
-
-# Telegram
+# =====================
+# TELEGRAM
+# =====================
 0.0.0.0 telegram.org
 0.0.0.0 t.me
 
-# Aplicativos de Relacionamento
+# =====================
+# OUTROS
+# =====================
+0.0.0.0 tumblr.com
+0.0.0.0 vk.com
+0.0.0.0 wechat.com
 
-# Tinder
+# =====================
+# RELACIONAMENTO
+# =====================
 0.0.0.0 tinder.com
 0.0.0.0 gotinder.com
 
-# Badoo
 0.0.0.0 badoo.com
-0.0.0.0 badoo.net
 0.0.0.0 badoocdn.com
 
-# OkCupid
 0.0.0.0 okcupid.com
 0.0.0.0 ok-static.okcupid.com
 
-# Plenty of Fish (POF)
 0.0.0.0 pof.com
 0.0.0.0 plentyoffish.com
 
-# Match.com
 0.0.0.0 match.com
-
-# Bumble
 0.0.0.0 bumble.com
-0.0.0.0 bmble.com
 
-# Happn
 0.0.0.0 happn.com
-0.0.0.0 happn.fr
-
-# Grindr
 0.0.0.0 grindr.com
-0.0.0.0 grindr.mobi
-
-# Hinge
 0.0.0.0 hinge.co
 
-# eHarmony
 0.0.0.0 eharmony.com
-0.0.0.0 eharmony.co.uk
-
-# Ashley Madison
 0.0.0.0 ashleymadison.com
 
-# Zoosk
 0.0.0.0 zoosk.com
-0.0.0.0 zooskvip.com
-
-# MeetMe
 0.0.0.0 meetme.com
-0.0.0.0 meetmevip.com
