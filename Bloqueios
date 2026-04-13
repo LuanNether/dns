@@ -1,3 +1,134 @@
-# Lista de Bloqueio
-# Última atualização: 06-09-2024
+# Lista Anti-Pirataria (IPTV + Torrents + Streaming ilegal)
+# Atualizado: 12-04-2026
 
+# =====================
+# TORRENT / INDEXADORES
+# =====================
+0.0.0.0 thepiratebay.org
+0.0.0.0 pirateproxy.live
+0.0.0.0 piratebayproxy.net
+0.0.0.0 1337x.to
+0.0.0.0 1337x.st
+0.0.0.0 yts.mx
+0.0.0.0 yts.lt
+0.0.0.0 eztv.re
+0.0.0.0 torrentgalaxy.to
+0.0.0.0 limetorrents.lol
+0.0.0.0 nyaa.si
+0.0.0.0 zooqle.com
+0.0.0.0 torlock.com
+0.0.0.0 magnetdl.com
+0.0.0.0 torrentdownloads.me
+0.0.0.0 demonoid.is
+0.0.0.0 skytorrents.lol
+0.0.0.0 bt4g.org
+0.0.0.0 torrents.me
+0.0.0.0 torrentfunk.com
+
+# =====================
+# TORRENT BR
+# =====================
+0.0.0.0 jogostorrentbr.net
+0.0.0.0 brjogostorrent.net
+0.0.0.0 gtorr.net
+0.0.0.0 apachetorrent.com
+0.0.0.0 xfilmetorrenthd.com.br
+0.0.0.0 baixafilmeshdr.com
+0.0.0.0 comandotorrents.to
+0.0.0.0 torrentdosfilmes.com
+0.0.0.0 torrentfilmeshd.net
+0.0.0.0 torrentgamesps2.com
+0.0.0.0 torrentjogos.net
+0.0.0.0 gamesfulltorrent.com
+
+# =====================
+# STREAMING PIRATA
+# =====================
+0.0.0.0 redecanais.to
+0.0.0.0 redecanais.dev
+0.0.0.0 multicanais.bz
+0.0.0.0 multicanais.fans
+0.0.0.0 topflix.fm
+0.0.0.0 superflixapi.dev
+0.0.0.0 tvexpress.live
+0.0.0.0 filmesonlinegratis.net
+0.0.0.0 megafilmeshd50.com
+0.0.0.0 seriesflix.video
+0.0.0.0 pobreflix.io
+0.0.0.0 pobreflix.me
+0.0.0.0 gofilmes.me
+0.0.0.0 vizer.tv
+0.0.0.0 vizerhd.net
+0.0.0.0 filmesgratisonline.com
+0.0.0.0 assistirdublado.com
+0.0.0.0 assistirtvonline.com
+0.0.0.0 tvonlinegratis1.com
+0.0.0.0 assistirfilmesonlinehd.com
+
+# =====================
+# DOWNLOAD DIRETO
+# =====================
+0.0.0.0 uploaded.net
+0.0.0.0 rapidgator.net
+0.0.0.0 turbobit.net
+0.0.0.0 filefactory.com
+0.0.0.0 uloz.to
+0.0.0.0 katfile.com
+0.0.0.0 keep2share.cc
+0.0.0.0 uploadgig.com
+0.0.0.0 userscloud.com
+0.0.0.0 nitroflare.com
+0.0.0.0 datafile.com
+0.0.0.0 hitfile.net
+0.0.0.0 filejoker.net
+0.0.0.0 rapidu.net
+0.0.0.0 downace.com
+
+# =====================
+# IPTV / PAINÉIS
+# =====================
+0.0.0.0 xtream-codes.com
+0.0.0.0 xtream-ui.com
+0.0.0.0 xui.one
+0.0.0.0 iptvsmarters.com
+0.0.0.0 iptvsmarters.pro
+0.0.0.0 smartersiptv.com
+0.0.0.0 smartiptv.eu
+0.0.0.0 duplexiptv.com
+0.0.0.0 setiptv.eu
+0.0.0.0 flixiptv.eu
+0.0.0.0 ssiptv.com
+0.0.0.0 iboplayer.com
+
+# =====================
+# LISTAS IPTV
+# =====================
+0.0.0.0 iptv-org.github.io
+0.0.0.0 freeiptvlinks.com
+0.0.0.0 iptvcat.com
+0.0.0.0 iptvsource.com
+0.0.0.0 iptv4sat.com
+0.0.0.0 iptvlinks.org
+0.0.0.0 iptvstack.com
+0.0.0.0 iptvm3ulist.com
+0.0.0.0 iptvchannelslist.com
+0.0.0.0 iptvplaylistdownload.com
+
+# =====================
+# EXTRA (globais)
+# =====================
+0.0.0.0 fmovies.to
+0.0.0.0 fmovies.wtf
+0.0.0.0 soap2day.to
+0.0.0.0 soap2day.rs
+0.0.0.0 lookmovie.io
+0.0.0.0 yesmovies.ag
+0.0.0.0 gomovies.sx
+0.0.0.0 putlocker.pe
+0.0.0.0 putlocker.ma
+0.0.0.0 solarmovie.pe
+0.0.0.0 solarmovie.one
+0.0.0.0 watchseries.id
+0.0.0.0 watchserieshd.tv
+0.0.0.0 123moviesfree.net
+0.0.0.0 123movieshub.tc
