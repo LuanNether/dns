@@ -1,34 +1,88 @@
 # Lista de Bloqueio de Sites de Apostas
-# Última atualização: 06-09-2024
+# Atualizado: 04.2026
 
 0.0.0.0 bet365.com
-0.0.0.0 williamhill.com
-0.0.0.0 pokerstars.com
-0.0.0.0 888.com
+0.0.0.0 www.bet365.com
+0.0.0.0 bet365.bet.br
+
+0.0.0.0 betano.com
+0.0.0.0 betano.bet.br
+
+0.0.0.0 sportingbet.com
+0.0.0.0 sportingbet.bet.br
+
 0.0.0.0 betfair.com
+0.0.0.0 betfair.bet.br
+
+0.0.0.0 betnacional.com.br
+0.0.0.0 betnacional.bet.br
+
+0.0.0.0 pixbet.com
+0.0.0.0 pixbet.bet.br
+
+0.0.0.0 apostaganha.bet.br
+0.0.0.0 estrela.bet
+0.0.0.0 estrelabet.com
+
+0.0.0.0 blaze.com
+0.0.0.0 blaze-1.com
+
+0.0.0.0 1xbet.com
+0.0.0.0 1xbet.bet.br
+0.0.0.0 1xslots.com
+
+0.0.0.0 parimatch.com
+0.0.0.0 parimatch.bet.br
+
+0.0.0.0 stake.com
+0.0.0.0 stake.bet
+
+0.0.0.0 bc.game
+0.0.0.0 bcgame.lu
+
+0.0.0.0 bitstarz.com
+
+0.0.0.0 roobet.com
+0.0.0.0 rollbit.com
+
+0.0.0.0 bitstarz.com
+
+0.0.0.0 megapari.com
+0.0.0.0 melbet.com
+
+0.0.0.0 vbet.com
+0.0.0.0 leonbets.com
+
+0.0.0.0 dafabet.com
+0.0.0.0 22bet.com
+0.0.0.0 888sport.com
+
 0.0.0.0 unibet.com
-0.0.0.0 ladbrokes.com
 0.0.0.0 bwin.com
 0.0.0.0 betway.com
-0.0.0.0 paddypower.com
+
 0.0.0.0 draftkings.com
 0.0.0.0 fanduel.com
-0.0.0.0 betmgm.com
-0.0.0.0 caesars.com
-0.0.0.0 sportsbet.com.au
-0.0.0.0 coral.co.uk
-0.0.0.0 skybet.com
-0.0.0.0 mybookie.ag
-0.0.0.0 foxbet.com
-0.0.0.0 intertops.eu
-0.0.0.0 10bet.com
-0.0.0.0 sportingbet.com
+
+0.0.0.0 mrgreen.com
 0.0.0.0 betfred.com
 0.0.0.0 betvictor.com
-0.0.0.0 leovegas.com
-0.0.0.0 dafabet.com
-0.0.0.0 mrgreen.com
-0.0.0.0 1xbet.com
-0.0.0.0 parimatch.com
-0.0.0.0 smarkets.com
+
+0.0.0.0 foxbet.com
+0.0.0.0 skybet.com
+
+0.0.0.0 mybookie.ag
+0.0.0.0 intertops.eu
+
+0.0.0.0 sportingbet.com
+0.0.0.0 ladbrokes.com
+0.0.0.0 coral.co.uk
+
+0.0.0.0 pokerstars.com
+0.0.0.0 williamhill.com
+
 0.0.0.0 winamax.fr
+0.0.0.0 leovegas.com
+
+0.0.0.0 betmgm.com
+0.0.0.0 caesars.com
