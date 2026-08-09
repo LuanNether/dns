@@ -1,5 +1,5 @@
 # Lista de Bloqueio de Redes Sociais e Relacionamento
-# Atualizado: 12-04-2026
+# Atualizado: 09-08-2026
 
 # =====================
 # META (Facebook / Instagram / Messenger / WhatsApp)
@@ -12,6 +12,7 @@
 
 0.0.0.0 instagram.com
 0.0.0.0 cdninstagram.com
+0.0.0.0 threads.net
 
 0.0.0.0 whatsapp.com
 0.0.0.0 whatsapp.net
@@ -72,6 +73,15 @@
 0.0.0.0 tumblr.com
 0.0.0.0 vk.com
 0.0.0.0 wechat.com
+0.0.0.0 bsky.app
+0.0.0.0 blueskyweb.xyz
+0.0.0.0 mastodon.social
+0.0.0.0 kwai.com
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 discordcdn.com
 
 # =====================
 # RELACIONAMENTO
@@ -100,3 +110,4 @@
 
 0.0.0.0 zoosk.com
 0.0.0.0 meetme.com
+0.0.0.0 feeld.co

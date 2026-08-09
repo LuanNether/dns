@@ -1,5 +1,5 @@
 # Lista Anti-Pirataria (IPTV + Torrents + Streaming ilegal)
-# Atualizado: 12-04-2026
+# Atualizado: 09-08-2026
 
 # =====================
 # TORRENT / INDEXADORES
@@ -24,6 +24,8 @@
 0.0.0.0 bt4g.org
 0.0.0.0 torrents.me
 0.0.0.0 torrentfunk.com
+0.0.0.0 solidtorrents.to
+0.0.0.0 torrentdownloads.pro
 
 # =====================
 # TORRENT BR
@@ -64,6 +66,8 @@
 0.0.0.0 assistirtvonline.com
 0.0.0.0 tvonlinegratis1.com
 0.0.0.0 assistirfilmesonlinehd.com
+0.0.0.0 cuevana3.ch
+0.0.0.0 cinecalidad.ec
 
 # =====================
 # DOWNLOAD DIRETO
@@ -132,3 +136,5 @@
 0.0.0.0 watchserieshd.tv
 0.0.0.0 123moviesfree.net
 0.0.0.0 123movieshub.tc
+0.0.0.0 moviesjoy.to
+0.0.0.0 myflixer.to

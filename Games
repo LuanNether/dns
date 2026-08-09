@@ -1,5 +1,5 @@
 # Lista de Bloqueio de Jogos Online e Plataformas de Jogos
-# Atualizado: 12-04-2026
+# Atualizado: 09-08-2026
 
 # =====================
 # STEAM
@@ -22,6 +22,7 @@
 0.0.0.0 fortnite.com
 0.0.0.0 fortnite.gg
 0.0.0.0 epicgamescdn.com
+0.0.0.0 easy.ac
 
 # =====================
 # RIOT GAMES
@@ -67,6 +68,7 @@
 0.0.0.0 xboxlive.com
 0.0.0.0 xboxliveapi.com
 0.0.0.0 xboxservices.com
+0.0.0.0 xboxab.com
 
 # =====================
 # PLAYSTATION
@@ -80,6 +82,7 @@
 # =====================
 0.0.0.0 nintendo.com
 0.0.0.0 nintendo.net
+0.0.0.0 nintendo-europe.com
 
 # =====================
 # GOG
@@ -100,3 +103,12 @@
 0.0.0.0 ttvnw.net
 0.0.0.0 twitchcdn.net
 0.0.0.0 jtvnw.net
+
+# =====================
+# DISCORD
+# =====================
+0.0.0.0 discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 discordcdn.com

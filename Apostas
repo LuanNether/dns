@@ -1,5 +1,5 @@
 # Lista de Bloqueio de Sites de Apostas
-# Atualizado: 12-04-2026
+# Atualizado: 09-08-2026
 
 0.0.0.0 bet365.com
 0.0.0.0 www.bet365.com
@@ -19,6 +19,15 @@
 
 0.0.0.0 pixbet.com
 0.0.0.0 pixbet.bet.br
+
+0.0.0.0 superbet.bet.br
+0.0.0.0 kto.bet.br
+0.0.0.0 novibet.bet.br
+0.0.0.0 bet7k.bet.br
+0.0.0.0 betsul.bet.br
+0.0.0.0 betdasorte.bet.br
+0.0.0.0 betsson.bet.br
+0.0.0.0 rivalo.bet.br
 
 0.0.0.0 apostaganha.bet.br
 0.0.0.0 estrela.bet
@@ -45,7 +54,6 @@
 0.0.0.0 roobet.com
 0.0.0.0 rollbit.com
 
-0.0.0.0 bitstarz.com
 
 0.0.0.0 megapari.com
 0.0.0.0 melbet.com
@@ -74,7 +82,6 @@
 0.0.0.0 mybookie.ag
 0.0.0.0 intertops.eu
 
-0.0.0.0 sportingbet.com
 0.0.0.0 ladbrokes.com
 0.0.0.0 coral.co.uk
 
